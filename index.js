@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { compile } = require('./src/fymlang');
 
 const fileName = process.argv[2];
