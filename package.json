@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "files": ["src"],
+  "files": ["src", "README.md"],
   "bin": {
     "fymlang": "index.js"
   },
